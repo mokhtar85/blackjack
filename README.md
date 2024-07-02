@@ -1,6 +1,6 @@
 # Blackjack - Une application en Symfony et en Sveltekit pour s'entrainer à la QA
 
-## Table des matières
+## Table des matièresa
 
 - [Blackjack - Une application en Symfony et en Sveltekit pour s'entrainer à la QA](#blackjack---une-application-en-symfony-et-en-sveltekit-pour-sentrainer-à-la-qa)
   - [Table des matières](#table-des-matières)
